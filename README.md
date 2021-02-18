@@ -9,6 +9,8 @@ By moving hand closer or further from ultrasonic sensor you can change sound vol
 ## Where is the client?
 Here: https://github.com/AndrewRocky/echomaster-client
 
+## How to run:
+`python3 server.py`
 
 ## Trivia:
 Project was created as a final project for 'Internet of Things' course of Kumoh National Institute of Technology.
